@@ -2,4 +2,4 @@
 
 At Cornell Tech, Roosevelt Island, New York City
 
-October 7-8, 2022
+October 6-7, 2022
