@@ -8,7 +8,7 @@ Deadline for abstract submission: July 18, 2022
 
 The New Directions in Analyzing Text as Data (TADA) meeting is a leading forum for research on the study of politics, society, and culture through computational analysis of documents. Recent advances in NLP have the potential to revolutionize how we study human society. But using these tools effectively, reliably, and equitably requires continuous dialog between experts across computational methods, social science, and the humanities. 
 
-TADA 2021 invites applications for research presentations on new work related to text-as-data methods and applications. TADA is an interdisciplinary conference, drawing scholars from across the social sciences, computer and information science, and related fields. Our programs from past meetings (TADA 2018, TADA 2019, and [TADA 2021](https://tada2021.org)) show the wide range of work presented at our conference.
+TADA 2022 invites applications for research presentations on new work related to text-as-data methods and applications. TADA is an interdisciplinary conference, drawing scholars from across the social sciences, computer and information science, and related fields. Our programs from past meetings (TADA 2018, TADA 2019, and [TADA 2021](https://tada2021.org)) show the wide range of work presented at our conference.
 
 Key Dates:
 * Monday July 18, abstract submission
