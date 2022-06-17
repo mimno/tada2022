@@ -30,3 +30,6 @@ Because in-person space is limited, we ask all interested participants to apply 
 Diversity leads to stronger science. We actively seek, welcome, and encourage people with diverse backgrounds, experiences, and identities to apply and attend. While many participants have attended TADA for years, we also eagerly welcome new researchers!
 
 We anticipate having lodging options available for conference participants to reserve directly. Limited travel funds will be made available for the contact author of accepted papers and posters. Priority for this funding will be given to scholars who lack their own travel funds. We will provide guidance on booking rooms and accessing travel funds with your conference acceptance.
+
+For questions write to info@tada2022.org
+
