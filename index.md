@@ -12,8 +12,8 @@ TADA 2022 invites applications for research presentations on new work related to
 
 Key Dates:
 * Monday July 18, abstract submission
-* Wednesday Aug 10, notification of selection
-* Friday Aug 12, registration for participation
+* Monday Aug 15, notification of selection
+* Wednesday Aug 17, registration for participation
 * Thursday Sep 22, full papers for discussants
 * Thursday Oct 6 -- Friday Oct 7, conference
 
