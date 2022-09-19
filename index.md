@@ -10,7 +10,32 @@ The New Directions in Analyzing Text as Data (TADA) meeting is a leading forum f
 
 TADA 2022 invites applications for research presentations on new work related to text-as-data methods and applications. TADA is an interdisciplinary conference, drawing scholars from across the social sciences, computer and information science, and related fields. Our programs from past meetings (TADA 2018, TADA 2019, and [TADA 2021](https://tada2021.org)) show the wide range of work presented at our conference.
 
-Key Dates:
+### Schedule
+
+#### Thursday Oct 6
+
+Breakfast at 8am, conference activities begin at 9am and end at 5pm.
+
+* Contributed talks
+* Keynote Speaker, Julia Silge
+* Lunch 
+* Poster session A
+* Contributed talks
+
+#### Friday Oct 7
+
+Breakfast at 8am, conference activities begin at 9am and end at 12pm with a boxed lunch.
+
+* Cassandra @ TADA roundtable
+* Poster session B
+* Contributed talks
+
+### Keynote Speaker: Julia Silge
+
+Julia Silge is a data scientist and software engineer at RStudio PBC where she works on open source modeling tools. She is an author, an international keynote speaker, and a real-world practitioner focusing on text mining, data analysis, and machine learning. Julia loves making beautiful charts and communicating about technical topics with diverse audiences.
+
+### Key Dates
+
 * Monday July 18, abstract submission
 * Monday Aug 15, notification of selection
 * Sept 2, registration opens for participation
@@ -27,11 +52,9 @@ We are planning to hold TADA 2022 in a hybrid format. Participants who are willi
 
 In addition to oral presentations and posters TADA 2022 will have a doctoral consortium. PhD students will be matched with experienced mentors from complementary fields to offer critiques to specific work and to provide guidance in how to do effective interdisciplinary work.
 
-Because in-person space is limited, we ask all interested participants to apply to attend the conference. There will be a separate registration for participants after the abstract review process. 
-
 Diversity leads to stronger science. We actively seek, welcome, and encourage people with diverse backgrounds, experiences, and identities to apply and attend. While many participants have attended TADA for years, we also eagerly welcome new researchers!
 
-We anticipate having lodging options available for conference participants to reserve directly. Limited travel funds will be made available for student authors. Priority for this funding will be given to scholars who lack their own travel funds.
+Limited travel funds will be made available for student authors. Priority for this funding will be given to scholars who lack their own travel funds.
 
 For questions write to info@tada2022.org
 
