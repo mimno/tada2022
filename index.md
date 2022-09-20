@@ -46,17 +46,17 @@ Julia Silge is a data scientist and software engineer at RStudio PBC where she w
 
 This year's conference will be held at Cornell Tech on Roosevelt Island and is sponsored by the Cornell Center for Social Science, the Cornell Center for Data Science for Enterprise and Society, and the National Science Foundation. Events will take place at the Verizon Executive Education Center on the Cornell Tech campus.
 
-**Accommodations** The [Graduate Hotel](https://www.graduatehotels.com/roosevelt-island/) Roosevelt Island is immediately adjacent to the conference location. Roosevelt Island is also accessible on the F train from Manhattan and Queens. Locations around Bryant Park are particularly convenient. Note that subway service may be limited after 9pm.
+**Accommodations** The [Graduate Hotel](https://www.graduatehotels.com/roosevelt-island/) Roosevelt Island is immediately adjacent to the conference location. Roosevelt Island is also accessible on the F train from Manhattan and Queens. Locations around Bryant Park are particularly convenient. Note that subway service may be limited after 9pm. 
 
 Proposals are due July 18, and consist of a brief, 300-word abstract in text format rather than a full paper. TADA 2022 is a non-archival conference; there are no formal proceedings, and papers presented at the conference will not be distributed publicly by the conference. Presenters are expected to provide a paper to their discussant two weeks before the conference. We welcome any work, so long as it hasn't been previously presented at a TADA conference. We also welcome individuals to volunteer to serve as discussants.
-
-We are planning to hold TADA 2022 in a hybrid format. Participants who are willing to travel to NYC will attend the conference in person, while a remote option will be provided for the other participants. The conference will consist of oral presentations and a poster session with Ph.D. students. The conference will take place on October 6 and 7 during Eastern Daylight Time business hours.
 
 In addition to oral presentations and posters TADA 2022 will have a doctoral consortium. PhD students will be matched with experienced mentors from complementary fields to offer critiques to specific work and to provide guidance in how to do effective interdisciplinary work.
 
 Diversity leads to stronger science. We actively seek, welcome, and encourage people with diverse backgrounds, experiences, and identities to apply and attend. While many participants have attended TADA for years, we also eagerly welcome new researchers!
 
 ### Poster sessions
+
+Posters may be in any shape up to A0 size.
 
 #### Session A (Thursday)
 
@@ -86,7 +86,7 @@ Diversity leads to stronger science. We actively seek, welcome, and encourage pe
 | Cambridge Law Corpus: A corpus for research on legal AI  |  Andreas Östling; Holli Sargeant; Ludwig Bull; Alex Terenin; Leif Jonsson; Måns Magnusson; Felix Steffek  |
 | Mired in Multivalence: Municipal Liability and the Post-1960s American City  |  Tina Law  |
 
-#### Poster session B
+#### Poster session B (Friday)
 
 | Title | Authors |
 | --- | --- |
