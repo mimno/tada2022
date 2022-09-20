@@ -54,6 +54,27 @@ In addition to oral presentations and posters TADA 2022 will have a doctoral con
 
 Diversity leads to stronger science. We actively seek, welcome, and encourage people with diverse backgrounds, experiences, and identities to apply and attend. While many participants have attended TADA for years, we also eagerly welcome new researchers!
 
+### Talks 
+
+| Title | Author |
+| --- | --- |
+| How does rising inflation affect EV charging cost and consumer sentiment?  |  Sarthak Chaturvedi, Omar Isaac Asensio; Georgia Institute of Technology  |
+| Immigration and Social Distance:  Evidence  from Newspapers during the Age of Mass Migration  |  Elliott Ash, Gloria Gennaro, Dominik Hangartner, Alessandra Stampi-Bombelli  |
+| Where Did It Come From? Deep Learning for Event Extraction in Art Provenance  |  Fabio Mariani  |
+| Conceptualization of ESG in corporate discourse: a computational text analytic approach   |  Ilya Akdemir  |
+| Towards measuring populism from text  |  Ines Rehbein, Christopher Klamm, Simone Ponzetto  |
+| Challenges in Opinion Manipulation Detection: An Examination of Wartime Russian Media  |  Chan Young Park, Julia Mendelsohn, Anjalie Field, Yulia Tsvetkov  |
+| Sounding the Bullhorn: Surfacing and Analyzing Dogwhistles with Language Models  |  Julia Mendelsohn, Maarten Sap, Ronan Le Bras  |
+| Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature  |  Katherine Thai, Marzena Karpinska, Kalpesh Krishna, Moira Inghilleri, John Wieting, Mohit Iyyer   |
+| Gender and Pro-CCP Smear Campaigns Targeting the Uyghur Diaspora on Twitter  |  Allison Koh, Jonathan Nagler, Joshua A. Tucker  |
+| Strengthening Propaganda and the Limits of Media Commercialization in China: Evidence from Millions of Newspaper Articles  |  Margaret Roberts, Brandon Stewart, Hannah Waight, and Yin Yuan  |
+| Reducing bias in toxic comment classification using BERTAugment   |  Juhi Mittal, Neha Mittal  |
+| News Media Consolidation and Ideological Positioning  |  Pierre Bodéré, Nicolas Longuet Marx, Marguerite Obolensky  |
+| What is “Terrorism”? How Knowledge Shapes Our Definitions of Political Violence  |  Peter Krause, Betul Ozturan  |
+| Do Journalists Overstate Science? Findings from Computational Modeling of Scientific (Un)certainty  |  Jiaxin Pei and David Jurgens  |
+| Was It Political? Interpretations of the 1967 Detroit Rebellion by Detroit Residents Fifty Years Later  |  Tina Law  |
+| A Graph-Augmented Generative Entity-to-Entity Stance Detection Framework  |  Xinliang Frederick Zhang, Nick Beauchamp, Lu Wang  |
+
 ### Poster sessions
 
 Posters may be in any shape up to A0 size.
