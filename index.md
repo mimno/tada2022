@@ -58,22 +58,36 @@ Diversity leads to stronger science. We actively seek, welcome, and encourage pe
 
 | Title | Author |
 | --- | --- |
-| How does rising inflation affect EV charging cost and consumer sentiment?  |  Sarthak Chaturvedi, Omar Isaac Asensio; Georgia Institute of Technology  |
-| Immigration and Social Distance:  Evidence  from Newspapers during the Age of Mass Migration  |  Elliott Ash, Gloria Gennaro, Dominik Hangartner, Alessandra Stampi-Bombelli  |
 | Where Did It Come From? Deep Learning for Event Extraction in Art Provenance  |  Fabio Mariani  |
-| Conceptualization of ESG in corporate discourse: a computational text analytic approach   |  Ilya Akdemir  |
-| Towards measuring populism from text  |  Ines Rehbein, Christopher Klamm, Simone Ponzetto  |
-| Challenges in Opinion Manipulation Detection: An Examination of Wartime Russian Media  |  Chan Young Park, Julia Mendelsohn, Anjalie Field, Yulia Tsvetkov  |
-| Sounding the Bullhorn: Surfacing and Analyzing Dogwhistles with Language Models  |  Julia Mendelsohn, Maarten Sap, Ronan Le Bras  |
 | Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature  |  Katherine Thai, Marzena Karpinska, Kalpesh Krishna, Moira Inghilleri, John Wieting, Mohit Iyyer   |
+| Do Journalists Overstate Science? Findings from Computational Modeling of Scientific (Un)certainty  |  Jiaxin Pei and David Jurgens  |
+
+| Title | Author |
+| --- | --- |
+| How does rising inflation affect EV charging cost and consumer sentiment?  |  Sarthak Chaturvedi, Omar Isaac Asensio; Georgia Institute of Technology  |
+| Conceptualization of ESG in corporate discourse: a computational text analytic approach   |  Ilya Akdemir  |
+| A Graph-Augmented Generative Entity-to-Entity Stance Detection Framework  |  Xinliang Frederick Zhang, Nick Beauchamp, Lu Wang  |
+
+
+| Title | Author |
+| --- | --- |
+| Challenges in Opinion Manipulation Detection: An Examination of Wartime Russian Media  |  Chan Young Park, Julia Mendelsohn, Anjalie Field, Yulia Tsvetkov  |
 | Gender and Pro-CCP Smear Campaigns Targeting the Uyghur Diaspora on Twitter  |  Allison Koh, Jonathan Nagler, Joshua A. Tucker  |
 | Strengthening Propaganda and the Limits of Media Commercialization in China: Evidence from Millions of Newspaper Articles  |  Margaret Roberts, Brandon Stewart, Hannah Waight, and Yin Yuan  |
+
+| Title | Author |
+| --- | --- |
+| What is “Terrorism”? How Knowledge Shapes Our Definitions of Political Violence  |  Peter Krause, Betul Ozturan  |
+| Immigration and Social Distance:  Evidence  from Newspapers during the Age of Mass Migration  |  Elliott Ash, Gloria Gennaro, Dominik Hangartner, Alessandra Stampi-Bombelli  |
+| Was It Political? Interpretations of the 1967 Detroit Rebellion by Detroit Residents Fifty Years Later  |  Tina Law  |
+
+| Title | Author |
+| --- | --- |
+| Towards measuring populism from text  |  Ines Rehbein, Christopher Klamm, Simone Ponzetto  |
+| Sounding the Bullhorn: Surfacing and Analyzing Dogwhistles with Language Models  |  Julia Mendelsohn, Maarten Sap, Ronan Le Bras  |
 | Reducing bias in toxic comment classification using BERTAugment   |  Juhi Mittal, Neha Mittal  |
 | News Media Consolidation and Ideological Positioning  |  Pierre Bodéré, Nicolas Longuet Marx, Marguerite Obolensky  |
-| What is “Terrorism”? How Knowledge Shapes Our Definitions of Political Violence  |  Peter Krause, Betul Ozturan  |
-| Do Journalists Overstate Science? Findings from Computational Modeling of Scientific (Un)certainty  |  Jiaxin Pei and David Jurgens  |
-| Was It Political? Interpretations of the 1967 Detroit Rebellion by Detroit Residents Fifty Years Later  |  Tina Law  |
-| A Graph-Augmented Generative Entity-to-Entity Stance Detection Framework  |  Xinliang Frederick Zhang, Nick Beauchamp, Lu Wang  |
+
 
 ### Poster sessions
 
@@ -105,6 +119,7 @@ Posters may be in any shape up to A0 size.
 | Dictionary-Assisted Supervised Contrastive Learning  |  Patrick Y. Wu, Richard Bonneau, Joshua A. Tucker, Jonathan Nagler  |
 | The Rise of and Demand for Identitarian Media Coverage  |  Daniel Hopkins, Yphtach Lelkes, Samuel Wolken  |
 | Cambridge Law Corpus: A corpus for research on legal AI  |  Andreas Östling; Holli Sargeant; Ludwig Bull; Alex Terenin; Leif Jonsson; Måns Magnusson; Felix Steffek  |
+| Filtering Technologies and the Fairness of Natural Language Systems  |  Eddie Yang, Chad Atalla, Su Lin Blodgett, Kate Cook, Kristen Laird, Emily Lawton, Michael Madaio, Samir Passi, Forough Poursabzi, Vyoma Raman, Bella Rideau, Emily Sheng, Dan Vann, Andy Zhao, Solon Barocas, Hanna Wallach  |
 | Mired in Multivalence: Municipal Liability and the Post-1960s American City  |  Tina Law  |
 
 #### Poster session B (Friday)
@@ -127,7 +142,6 @@ Posters may be in any shape up to A0 size.
 | A Step-by-Step Protocol for Curation of Topic Models by Subject Matter Experts  |  Philip Resnik, Pranav Goel, Alexander Hoyle, Rupak Sarkar, Josh Hagedorn, Maeve Gearing, and Carol Bruce  |
 | Who gets a say in this? Speaking security on social media  |  Natalia Umansky  |
 | Learning from Machines: Differentiating US Presidential Campaigns with Attribution and Annotation  |  Musashi Jacobs-Harukawa  |
-| Filtering Technologies and the Fairness of Natural Language Systems  |  Eddie Yang, Chad Atalla, Su Lin Blodgett, Kate Cook, Kristen Laird, Emily Lawton, Michael Madaio, Samir Passi, Forough Poursabzi, Vyoma Raman, Bella Rideau, Emily Sheng, Dan Vann, Andy Zhao, Solon Barocas, Hanna Wallach  |
 | Finding the story: Leveraging expert knowledge in computational sensemaking of multi-platform text data  |  Hope Schroeder, Tobin South  |
 | What's a Parent to do? Measuring the Cultural Logics of Parenting with Biterm Topic Models  |  Orestes P. Hastings, Luca Maria Pesando  |
 | Decoding matrimonial advertisements: Individual preferences entrenched in socio cultural biases  |  Pranathi Iyer  |
