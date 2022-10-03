@@ -4,6 +4,8 @@ Conference: October 6-7, 2022 at Cornell Tech, Roosevelt Island, New York City
 
 Deadline for early registration: Sept 20, 2022
 
+Online registration is available for $25 (for AV support staff) until Wednesday Oct 5.
+
 [Registration form](https://www.eventbrite.com/e/text-as-data-conference-2022-registration-412924306717)
 
 For questions write to info@tada2022.org
@@ -13,8 +15,6 @@ The New Directions in Analyzing Text as Data (TADA) meeting is a leading forum f
 TADA 2022 invites applications for research presentations on new work related to text-as-data methods and applications. TADA is an interdisciplinary conference, drawing scholars from across the social sciences, computer and information science, and related fields. Our programs from past meetings (TADA 2018, TADA 2019, and [TADA 2021](https://tada2021.org)) show the wide range of work presented at our conference.
 
 ### Schedule
-
-Breakfast at 8am, conference activities begin at 9am and end at 5pm.
 
 |    |   Thursday Oct 6  |
 | --- | --- |
