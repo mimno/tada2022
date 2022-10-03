@@ -62,17 +62,21 @@ Diversity leads to stronger science. We actively seek, welcome, and encourage pe
 
 ### Talks
 
+Talks should be 12-15 minutes, leaving time for discussant remarks and audience questions.
+
 | Title | Author |
 | --- | --- |
 | Where Did It Come From? Deep Learning for Event Extraction in Art Provenance  |  Fabio Mariani  |
 | Immigration and Social Distance:  Evidence  from Newspapers during the Age of Mass Migration  |  Elliott Ash, Gloria Gennaro, Dominik Hangartner, Alessandra Stampi-Bombelli  |
 | Do Journalists Overstate Science? Findings from Computational Modeling of Scientific (Un)certainty  |  Jiaxin Pei and David Jurgens  |
+|  | Discussant: Stephen Downie |
 
 | Title | Author |
 | --- | --- |
 | How does rising inflation affect EV charging cost and consumer sentiment?  |  Sarthak Chaturvedi, Omar Isaac Asensio; Georgia Institute of Technology  |
 | Conceptualization of ESG in corporate discourse: a computational text analytic approach   |  Ilya Akdemir  |
 | A Graph-Augmented Generative Entity-to-Entity Stance Detection Framework  |  Xinliang Frederick Zhang, Nick Beauchamp, Lu Wang  |
+|  | Discussant: Ken Benoit |
 
 
 | Title | Author |
@@ -81,13 +85,14 @@ Diversity leads to stronger science. We actively seek, welcome, and encourage pe
 | Gender and Pro-CCP Smear Campaigns Targeting the Uyghur Diaspora on Twitter  |  Allison Koh, Jonathan Nagler, Joshua A. Tucker  |
 | Strengthening Propaganda and the Limits of Media Commercialization in China: Evidence from Millions of Newspaper Articles  |  Margaret Roberts, Brandon Stewart, Hannah Waight, and Yin Yuan  |
 | Was It Political? Interpretations of the 1967 Detroit Rebellion by Detroit Residents Fifty Years Later  |  Tina Law  |
+|  | Discussant: Sarah Dreier |
 
 | Title | Author |
 | --- | --- |
 | Towards measuring populism from text  |  Ines Rehbein, Christopher Klamm, Simone Ponzetto  |
 | Sounding the Bullhorn: Surfacing and Analyzing Dogwhistles with Language Models  |  Julia Mendelsohn, Maarten Sap, Ronan Le Bras  |
 | News Media Consolidation and Ideological Positioning  |  Pierre Bodéré, Nicolas Longuet Marx, Marguerite Obolensky  |
-
+|  | Discussant: Laure Thompson |
 
 
 ### Poster sessions
