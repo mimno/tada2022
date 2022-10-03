@@ -2,7 +2,7 @@
 
 Conference: October 6-7, 2022 at Cornell Tech, Roosevelt Island, New York City
 
-Deadline for early registration: Sept 20, 2022
+All events will take place in the Verizon Executive Education Center. From the Tram and F train stops, walk south along the river until you get to the Cornell Tech campus. The VEEC is on your left after the Graduate hotel.
 
 Online registration is available for $25 (for AV support staff) until Wednesday Oct 5.
 
@@ -28,6 +28,7 @@ TADA 2022 invites applications for research presentations on new work related to
 | 2:15 | Poster session A |
 | 3:15 | Break |
 | 3:30 | Contributed talks 3 |
+|  |   Dinner on your own |
 
 |    |   Friday Oct 7  |
 | --- | --- |
@@ -36,6 +37,7 @@ TADA 2022 invites applications for research presentations on new work related to
 | 9:00 | Cassandra @ TADA |
 | 10:00 | Poster session B |
 | 11:00 | Contributed talks 4 |
+|   | Lunch (provided) |
 
 
 ### Keynote Speaker: Julia Silge
