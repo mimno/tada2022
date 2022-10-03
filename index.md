@@ -14,23 +14,29 @@ TADA 2022 invites applications for research presentations on new work related to
 
 ### Schedule
 
-#### Thursday Oct 6
-
 Breakfast at 8am, conference activities begin at 9am and end at 5pm.
 
-* Contributed talks
-* Keynote Speaker, Julia Silge
-* Lunch 
-* Poster session A
-* Contributed talks
+|    |   Thursday Oct 6  |
+| --- | --- |
+| 8:00 | Breakfast |
+| 9:00 | Opening remarks |
+| 9:15 | Contributed talks 1 |
+| 10:30 | Break |
+| 11:00 | Keynote Speaker, Julia Silge |
+| 12:00 | Lunch (provided) |
+| 1:00 |  Contributed talks 2 |
+| 2:15 | Poster session A |
+| 3:15 | Break |
+| 3:30 | Contributed talks 3 |
 
-#### Friday Oct 7
+|    |   Friday Oct 7  |
+| --- | --- |
+| 8:00 | Breakfast |
+| 8:55 | Remarks |
+| 9:00 | Cassandra @ TADA |
+| 10:00 | Poster session B |
+| 11:00 | Contributed talks 4 |
 
-Breakfast at 8am, conference activities begin at 9am and end at 12pm with a boxed lunch.
-
-* Cassandra @ TADA roundtable
-* Poster session B
-* Contributed talks
 
 ### Keynote Speaker: Julia Silge
 
@@ -54,12 +60,12 @@ In addition to oral presentations and posters TADA 2022 will have a doctoral con
 
 Diversity leads to stronger science. We actively seek, welcome, and encourage people with diverse backgrounds, experiences, and identities to apply and attend. While many participants have attended TADA for years, we also eagerly welcome new researchers!
 
-### Talks 
+### Talks
 
 | Title | Author |
 | --- | --- |
 | Where Did It Come From? Deep Learning for Event Extraction in Art Provenance  |  Fabio Mariani  |
-| Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature  |  Katherine Thai, Marzena Karpinska, Kalpesh Krishna, Moira Inghilleri, John Wieting, Mohit Iyyer   |
+| Immigration and Social Distance:  Evidence  from Newspapers during the Age of Mass Migration  |  Elliott Ash, Gloria Gennaro, Dominik Hangartner, Alessandra Stampi-Bombelli  |
 | Do Journalists Overstate Science? Findings from Computational Modeling of Scientific (Un)certainty  |  Jiaxin Pei and David Jurgens  |
 
 | Title | Author |
@@ -74,19 +80,14 @@ Diversity leads to stronger science. We actively seek, welcome, and encourage pe
 | Challenges in Opinion Manipulation Detection: An Examination of Wartime Russian Media  |  Chan Young Park, Julia Mendelsohn, Anjalie Field, Yulia Tsvetkov  |
 | Gender and Pro-CCP Smear Campaigns Targeting the Uyghur Diaspora on Twitter  |  Allison Koh, Jonathan Nagler, Joshua A. Tucker  |
 | Strengthening Propaganda and the Limits of Media Commercialization in China: Evidence from Millions of Newspaper Articles  |  Margaret Roberts, Brandon Stewart, Hannah Waight, and Yin Yuan  |
-
-| Title | Author |
-| --- | --- |
-| What is “Terrorism”? How Knowledge Shapes Our Definitions of Political Violence  |  Peter Krause, Betul Ozturan  |
-| Immigration and Social Distance:  Evidence  from Newspapers during the Age of Mass Migration  |  Elliott Ash, Gloria Gennaro, Dominik Hangartner, Alessandra Stampi-Bombelli  |
 | Was It Political? Interpretations of the 1967 Detroit Rebellion by Detroit Residents Fifty Years Later  |  Tina Law  |
 
 | Title | Author |
 | --- | --- |
 | Towards measuring populism from text  |  Ines Rehbein, Christopher Klamm, Simone Ponzetto  |
 | Sounding the Bullhorn: Surfacing and Analyzing Dogwhistles with Language Models  |  Julia Mendelsohn, Maarten Sap, Ronan Le Bras  |
-| Reducing bias in toxic comment classification using BERTAugment   |  Juhi Mittal, Neha Mittal  |
 | News Media Consolidation and Ideological Positioning  |  Pierre Bodéré, Nicolas Longuet Marx, Marguerite Obolensky  |
+
 
 
 ### Poster sessions
@@ -102,7 +103,6 @@ Posters may be in any shape up to A0 size.
 | “Tell China’s Story Well” on YouTube: How do pro-Beijing influencers (re)shape China’s global narratives  |  Ryan Wang  |
 | OCR Correction of Historical Texts with Pre-Trained Language Models  |  Chris Buckley, Melissa M. Lee, Brandon M. Stewart  |
 | Dictionary Enrichment with Word Embedding: Tracking Online Incivility in Hong KongDictionary Enrichment with Word Embedding: Tracking Online Incivility in Hong Kong  |  Hai Liang, Yee Man Margaret Ng, & Nathan L.T. Tsang  |
-| Mining Meaning: Relative Semantic Similarity and the Analysis of Political Text  |  Marika Landau-Wells  |
 | Quantifying the Causal Effect of Gender on Interruptions in Supreme Court Oral Arguments  |  Katherine Keith, Ankita Gupta, Erica Cai, Brendan O'Connor, Douglas Rice  |
 | Medical Misinformation during a Pandemic: Text as Data during the Russian Influenza (1889-1890)  |  E. Thomas Ewing  |
 | Scaling latent political positions from textual data using word embeddings  |  Patrick Schwabl  |
