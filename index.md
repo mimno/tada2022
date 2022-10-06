@@ -84,7 +84,6 @@ Talks should be 12-15 minutes, leaving time for discussant remarks and audience 
 | Title | Author |
 | --- | --- |
 | Challenges in Opinion Manipulation Detection: An Examination of Wartime Russian Media  |  Chan Young Park, Julia Mendelsohn, Anjalie Field, Yulia Tsvetkov  |
-| Gender and Pro-CCP Smear Campaigns Targeting the Uyghur Diaspora on Twitter  |  Allison Koh, Jonathan Nagler, Joshua A. Tucker  |
 | Strengthening Propaganda and the Limits of Media Commercialization in China: Evidence from Millions of Newspaper Articles  |  Margaret Roberts, Brandon Stewart, Hannah Waight, and Yin Yuan  |
 | Was It Political? Interpretations of the 1967 Detroit Rebellion by Detroit Residents Fifty Years Later  |  Tina Law  |
 |  | Discussant: Sarah Dreier |
@@ -127,7 +126,6 @@ Posters may be in any shape up to A0 size.
 | The Rise of and Demand for Identitarian Media Coverage  |  Daniel Hopkins, Yphtach Lelkes, Samuel Wolken  |
 | Cambridge Law Corpus: A corpus for research on legal AI  |  Andreas Östling; Holli Sargeant; Ludwig Bull; Alex Terenin; Leif Jonsson; Måns Magnusson; Felix Steffek  |
 | Filtering Technologies and the Fairness of Natural Language Systems  |  Eddie Yang, Chad Atalla, Su Lin Blodgett, Kate Cook, Kristen Laird, Emily Lawton, Michael Madaio, Samir Passi, Forough Poursabzi, Vyoma Raman, Bella Rideau, Emily Sheng, Dan Vann, Andy Zhao, Solon Barocas, Hanna Wallach  |
-| Mired in Multivalence: Municipal Liability and the Post-1960s American City  |  Tina Law  |
 
 #### Poster session B (Friday)
 
