@@ -34,7 +34,7 @@ TADA 2022 invites applications for research presentations on new work related to
 | --- | --- |
 | 8:00 | Breakfast |
 | 8:55 | Remarks |
-| 9:00 | Cassandra @ TADA |
+| 9:00 | [Cassandra Project][cassandra] @ TADA Roundtable |
 | 10:00 | Poster session B |
 | 11:00 | Contributed talks 4 |
 |   | Lunch (provided) |
@@ -95,7 +95,6 @@ Talks should be 12-15 minutes, leaving time for discussant remarks and audience 
 | News Media Consolidation and Ideological Positioning  |  Pierre Bodéré, Nicolas Longuet Marx, Marguerite Obolensky  |
 |  | Discussant: Laure Thompson |
 
-
 ### Poster sessions
 
 Posters may be in any shape up to A0 size.
@@ -152,4 +151,14 @@ Posters may be in any shape up to A0 size.
 | Decoding matrimonial advertisements: Individual preferences entrenched in socio cultural biases  |  Pranathi Iyer  |
 | Gendered Information in Resumes and Hiring Bias: A Predictive Modeling Approach  |  Prasanna Parasurama, Joao Sedoc, Anindya Ghose  |
 
+### Roundtable Discussion
 
+The [Cassandra Project at Johns Hopkins][cassandra] has organized its third roundtable in the [Learning How to Play with the Machines][lhtpwtm] series on computational social science at TADA.
+
+| Title | Authors |
+| --- | --- |
+| Misinformation and dataset biases | **Panelists:** Kathy McKeown, David Mimno, Sarah Shugars, Arthur Spirling |
+| | **Chairs:** Giovanna Maria Dora Dore, Eva Klaus, Arya D. McCarthy |
+
+[cassandra]: https://cassandra.cs.jhu.edu
+[lhtpwtm]: https://connect.apsanet.org/centennialcenter/learning-how-to-play-with-machines/
